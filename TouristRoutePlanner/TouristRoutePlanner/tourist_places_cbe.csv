@@ -1,0 +1,92 @@
+id,name,category,area,latitude,longitude,entry_fee,visit_duration,rating,opening_time,closing_time,description
+1,Marudamalai Temple,Religious,Coimbatore,11.0356,76.8436,0,2.0,4.7,05:30,20:30,Hilltop Murugan temple and one of Coimbatore's major pilgrimage attractions.
+2,Perur Pateeswarar Temple,Religious,Coimbatore,10.9925,76.9127,0,1.5,4.7,06:00,20:30,Historic temple known for its architecture and sculptures.
+3,Eachanari Vinayagar Temple,Religious,Coimbatore,10.9361,76.9526,0,1.0,4.7,06:00,21:00,Well-known temple dedicated to Lord Vinayagar.
+4,Koniamman Temple,Religious,Coimbatore,10.9966,76.9624,0,1.0,4.7,06:00,21:00,Historic city temple in the Town Hall area.
+5,Siddhapudur Ayyappan Temple,Religious,Coimbatore,11.0184,76.976,0,1.0,4.8,05:00,21:00,Popular Ayyappan temple in central Coimbatore.
+6,Isha Yoga Center,Spiritual,Coimbatore,10.9725,76.735,0,2.5,4.5,06:00,20:00,Spiritual and meditation destination at the foothills of the Velliangiri Mountains.
+7,Adiyogi Shiva Statue,Spiritual,Coimbatore,10.9637,76.69,0,2.0,4.6,06:00,20:00,Large Shiva statue located at the Isha Yoga Center complex.
+8,Gedee Car Museum,Museum,Coimbatore,11.0014,76.9767,175,1.0,4.6,09:00,18:30,Classic and vintage automobile museum on Avinashi Road.
+9,GD Science Museum,Museum,Coimbatore,11.0014,76.9767,75,1.0,4.6,09:00,18:30,Science and technology exhibits at the GD Museums campus.
+10,Gass Forest Museum,Museum,Coimbatore,11.0167,76.95,40,1.5,4.5,09:00,17:00,Forestry and natural-history museum near Forest College.
+11,TNAU Insect Museum,Museum,Coimbatore,11.0169,76.93,20,1.5,4.6,10:00,16:00,Insect museum located at Tamil Nadu Agricultural University.
+12,Regional Science Centre,Science,Coimbatore,11.025,77.006,30,2.0,4.3,10:00,17:30,Science centre with educational exhibits and planetarium-related attractions.
+13,VOC Park and Zoo,Park,Coimbatore,11.0026,76.9616,20,2.0,4.0,09:30,18:00,Urban park and zoo area suitable for family recreation.
+14,Semmozhi Poonga,Nature,Coimbatore,11.0169,76.974,15,1.5,4.4,06:00,19:00,Modern botanical garden with themed gardens and walking areas.
+15,TNAU Botanical Garden,Nature,Coimbatore,11.0175,76.9285,20,1.5,4.5,08:00,18:00,Botanical garden on the Tamil Nadu Agricultural University campus.
+16,Gandhi Park,Park,Coimbatore,11.016,76.9555,0,1.0,4.2,06:00,20:00,Urban green space near R.S. Puram and Thadagam Road.
+17,Bharathi Park,Park,Coimbatore,11.0208,76.9478,0,1.0,4.2,05:00,20:00,Neighborhood park in Saibaba Colony.
+18,Race Course Park,Park,Coimbatore,11.005,76.974,0,1.0,4.3,06:00,20:00,Popular walking and recreation area around Race Course.
+19,Ukkadam Lake,Nature,Coimbatore,10.9915,76.9585,0,1.0,4.2,06:00,20:00,Urban waterbody and recreational area near Ukkadam.
+20,Tamil Nadu Police Museum,Historic,Coimbatore,11.006,76.961,20,1.0,4.3,10:00,17:00,Museum documenting the history and development of the Tamil Nadu Police.
+21,PSG GRD Museum of Science & Technology,Science,Coimbatore,11.035,77.015,0,1.5,4.9,10:00,17:00,Science and technology museum near Neelambur.
+22,Siruvani Waterfalls,Nature,Coimbatore,10.93,76.69,50,3.0,4.3,10:00,17:00,Scenic waterfall destination in the Siruvani hills.
+23,Kovai Kutralam,Nature,Coimbatore,10.936,76.728,30,3.0,4.4,10:00,14:00,Waterfall and nature destination in the Siruvani hill region.
+24,Kovai Kondattam,Adventure,Coimbatore,10.979,76.853,700,4.0,3.9,10:00,17:30,Amusement and water park on Siruvani Main Road.
+25,Brookefields Mall,Shopping,Coimbatore,11.0089,76.9594,0,3.0,4.4,10:30,22:30,Major shopping and entertainment mall in central Coimbatore.
+26,Prozone Mall,Shopping,Coimbatore,11.0559,76.9939,0,3.0,4.3,11:00,22:00,Shopping and entertainment mall in the Sivanandapuram area.
+27,Fun Republic Mall,Shopping,Coimbatore,11.0244,77.0107,0,3.0,4.1,10:30,22:00,"Shopping, food and entertainment complex on Avinashi Road."
+28,Broadway Megaaplex,Shopping,Coimbatore,11.0461,77.0414,0,3.0,4.3,10:00,22:00,Entertainment and shopping complex around Broadway Square.
+29,KG Cinemas,Cinema,Coimbatore,11.0002,76.9721,0,3.0,3.8,09:00,23:30,Established movie theatre complex in the Race Course area.
+30,Broadway Cinemas,Cinema,Coimbatore,11.0457,77.0506,0,3.0,4.5,10:00,23:30,Multiplex at Broadway Square near Avinashi Road.
+31,PVR Cinemas - Brookefields,Cinema,Coimbatore,11.0089,76.9594,0,3.0,4.1,10:00,23:30,Multiplex located inside Brookefields Mall.
+32,Cinepolis - Fun Republic Mall,Cinema,Coimbatore,11.0244,77.0107,0,3.0,4.0,10:00,23:30,Multiplex located inside Fun Republic Mall.
+33,Maharaja Theme Park,Adventure,Coimbatore,11.112,77.006,600,4.0,4.0,10:00,18:00,Theme and amusement park in the Neelambur area.
+34,Kari Motor Speedway,Sports,Coimbatore,10.889,76.979,0,3.0,4.3,09:00,18:00,Motorsport racing circuit near Chettipalayam.
+35,Nilgiri Biosphere Nature Park,Nature,Coimbatore,11.17,76.875,100,3.0,4.4,09:00,17:00,"Nature park near Anaikatti featuring regional flora, fauna and butterflies."
+36,Vydehi Falls,Nature,Coimbatore,11.103,76.769,0,3.0,4.2,07:00,17:00,Scenic waterfall destination in the Western Ghats region.
+37,Siruvani Dam,Nature,Coimbatore,10.94,76.73,0,2.0,4.3,09:00,17:00,Scenic dam and water-source area in the Siruvani hills.
+38,Pillur Dam,Nature,Coimbatore,11.195,76.9,0,2.5,4.3,08:00,17:00,Scenic reservoir and hill landscape in the Karamadai region.
+39,Vaitheki Falls,Nature,Coimbatore,11.19,76.82,0,3.0,4.1,07:00,17:00,Waterfall and forest destination near Narasipuram.
+40,"Mahatma Gandhi Memorial, Podanur",Heritage,Coimbatore,10.976,76.948,0,1.0,4.1,09:00,17:00,Memorial associated with Mahatma Gandhi in Podanur.
+41,Karpagam Theatres,Cinema,Coimbatore,11.016,76.966,0,3.0,4.1,10:00,23:30,Movie theatre complex in Gandhipuram.
+42,Thomas Park,Park,Coimbatore,11.005,76.974,0,1.0,4.3,06:00,20:00,Small urban park around the Race Course area.
+43,Puliakulam Vinayagar Temple,Religious,Coimbatore,11.0085,76.9862,0,1.0,4.6,06:00,21:00,Famous Coimbatore temple known for its large Lord Vinayagar idol.
+44,Sri Naga Sai Temple,Religious,Coimbatore,11.0258,76.9658,0,1.0,4.7,06:00,20:30,Popular Sai temple and spiritual landmark in Coimbatore.
+45,Anuvavi Subramaniar Temple,Religious,Coimbatore,11.083,76.871,0,2.0,4.5,06:00,20:00,Hill temple dedicated to Lord Murugan in the Coimbatore region.
+46,Thandu Mariamman Temple,Religious,Coimbatore,11.0105,76.958,0,1.0,4.5,06:00,21:00,Well-known Mariamman temple in central Coimbatore.
+47,St. Michael's Cathedral,Religious,Coimbatore,11.0064,76.9678,0,1.0,4.5,06:00,20:00,Historic Catholic cathedral in the heart of Coimbatore.
+48,All Souls Church,Religious,Coimbatore,11.006,76.969,0,1.0,4.4,06:00,20:00,Historic church near Race Course and central Coimbatore.
+49,ISKCON Coimbatore,Religious,Coimbatore,11.024,76.964,0,1.0,4.6,07:00,20:30,Krishna temple and spiritual centre in Coimbatore.
+50,TNAU Agricultural Museum,Museum,Coimbatore,11.0135,76.9295,0,1.5,4.4,09:00,17:00,Agricultural and educational exhibits associated with Tamil Nadu Agricultural University.
+51,Kasthuri Sreenivasan Art Gallery and Textile Museum,Museum,Coimbatore,11.0215,76.997,0,1.5,4.4,10:00,17:00,Art and textile heritage centre showcasing regional culture and textiles.
+52,Tanjore Art Gallery Coimbatore,Art,Coimbatore,11.0005,76.955,0,1.0,4.3,10:30,20:00,Art gallery in R.S. Puram featuring traditional Indian artwork.
+53,Valankulam Lake,Nature,Coimbatore,10.9925,76.9605,0,1.0,4.2,06:00,20:00,Urban lake and bird-viewing area close to central Coimbatore.
+54,Singanallur Lake,Nature,Coimbatore,10.9935,77.0165,0,1.5,4.3,06:00,20:00,Important urban wetland and bird habitat in Coimbatore.
+55,Perur Lake,Nature,Coimbatore,10.99,76.902,0,1.0,4.1,06:00,19:00,Local lake near the historic Perur area.
+56,Sungam Lake,Nature,Coimbatore,10.99,76.972,0,1.0,4.1,06:00,20:00,Urban waterbody and local scenic spot.
+57,Nehru Park,Park,Coimbatore,11.015,76.961,0,1.0,4.1,06:00,20:00,Urban recreation space suitable for a short visit.
+58,CODISSIA Trade Fair Complex,Events,Coimbatore,11.031,77.012,0,2.0,4.3,09:00,21:00,Major exhibition and events venue in Coimbatore; visit suitability depends on scheduled events.
+59,TIDEL Park Coimbatore,Landmark,Coimbatore,11.037,77.007,0,1.0,4.2,09:00,18:00,Major IT and business landmark on Avinashi Road.
+60,Brookefields PVR,Cinema,Coimbatore,11.0089,76.9594,0,3.0,4.1,10:00,23:30,Multiplex inside Brookefields Mall.
+61,Cinepolis Fun Republic Mall,Cinema,Coimbatore,11.0244,77.0107,0,3.0,4.0,10:00,23:30,Multiplex inside Fun Republic Mall.
+62,Prozone Cinemas,Cinema,Coimbatore,11.0559,76.9939,0,3.0,4.0,10:00,23:30,Cinema and entertainment option within Prozone Mall.
+63,V.O.C. Park and Zoo,Park,Coimbatore,11.0026,76.9616,20,2.0,4.0,10:00,16:00,Urban park and zoo area in central Coimbatore.
+64,Race Course,Park,Coimbatore,11.005,76.974,0,1.5,4.3,06:00,20:00,Popular walking and recreation area around Race Course.
+65,Gandhipuram Town Centre,Shopping,Coimbatore,11.0178,76.9674,0,2.0,4.2,10:00,21:00,Busy commercial and shopping district in central Coimbatore.
+66,R.S. Puram Shopping District,Shopping,Coimbatore,11.0068,76.9528,0,2.0,4.3,10:00,21:00,Popular shopping and dining district in R.S. Puram.
+67,Aliyar Dam,Nature,Pollachi,10.467,76.972,0,2-3 hours,4.5,06:00,18:00,Major dam and scenic reservoir near Pollachi.
+68,Monkey Falls,Nature,Pollachi,10.458,76.954,30,1-2 hours,4.2,07:00,17:00,Popular waterfall on the Pollachi-Valparai route.
+69,Topslip,Nature,Pollachi,10.458,76.9,50,3-5 hours,4.4,06:00,18:00,Forest tourism destination in the Anamalai hills.
+70,Anamalai Tiger Reserve,Wildlife,Pollachi,10.45,76.95,50,3-5 hours,4.3,06:00,18:00,Protected forest landscape known for wildlife and biodiversity.
+71,Masani Amman Temple,Religious,Pollachi,10.591,76.934,0,1-2 hours,4.6,06:00,20:00,Well-known temple at Anaimalai near Pollachi.
+72,Pollachi Market,Shopping,Pollachi,10.662,77.007,0,1-2 hours,4.2,06:00,20:00,Traditional market area known for local produce and commerce.
+73,Thirumoorthy Hills,Nature,Pollachi,10.48,77.18,0,2-4 hours,4.5,06:00,18:00,Scenic hill destination with reservoir and waterfalls nearby.
+74,Thirumoorthy Waterfalls,Nature,Pollachi,10.485,77.175,30,1-2 hours,4.5,08:00,17:00,Waterfall attraction in the Thirumoorthy Hills area.
+75,Aliyar Dam Park,Park,Pollachi,10.468,76.971,20,1-2 hours,4.2,09:00,18:00,Park and recreation area beside Aliyar Dam.
+76,Valparai Hill Station,Nature,Valparai,10.327,76.955,0,Full day,4.6,06:00,18:00,Hill station surrounded by tea estates and Western Ghats forests.
+77,Nallamudi Viewpoint,Nature,Valparai,10.35,76.9,30,1-2 hours,4.4,09:00,16:00,Scenic viewpoint overlooking tea estates and mountain valleys.
+78,Sholayar Dam,Nature,Valparai,10.337,76.875,0,1-2 hours,4.4,07:00,18:00,Large reservoir and scenic destination in the Valparai region.
+79,Nirar Dam,Nature,Valparai,10.32,76.97,0,1-2 hours,4.3,07:00,18:00,Scenic dam surrounded by the Valparai hills.
+80,Karumalai Balaji Temple,Religious,Valparai,10.29,76.97,0,1-2 hours,4.5,08:00,17:00,Temple located within a tea estate in the Valparai hills.
+81,Chinna Kallar,Nature,Valparai,10.35,76.92,0,2-3 hours,4.3,07:00,17:00,Lush forest and high-rainfall area near Valparai.
+82,Loam's View Point,Nature,Valparai,10.425,76.97,0,30-60 minutes,4.5,06:00,18:00,Viewpoint on the Pollachi-Valparai hill road overlooking the plains and Aliyar reservoir.
+83,Birla Waterfalls,Nature,Valparai,10.33,76.94,0,1-2 hours,4.1,08:00,17:00,Waterfall attraction in the Valparai hill region.
+84,Thalanar Viewpoint,Nature,Valparai,10.37,76.9,0,1 hour,4.4,07:00,17:00,Scenic mountain viewpoint in the Valparai region.
+85,Mettupalayam,Nature,Mettupalayam,11.299,76.934,0,2-4 hours,4.2,06:00,20:00,Gateway town to the Nilgiri hills and mountain railway route.
+86,Black Thunder Water Theme Park,Adventure,Mettupalayam,11.293,76.918,700,4-6 hours,4.3,10:00,18:00,Large water theme park near Mettupalayam.
+87,Kallar Horticulture Farm,Nature,Mettupalayam,11.329,76.875,30,1-2 hours,4.2,09:00,17:00,Horticulture farm and scenic gateway toward the Nilgiris.
+88,Mettupalayam View Point,Nature,Mettupalayam,11.32,76.95,0,30-60 minutes,4.5,06:00,20:00,Scenic viewpoint around the Mettupalayam-Kotagiri route.
+89,Nilgiri Mountain Railway - Mettupalayam,Heritage,Mettupalayam,11.301,76.936,0,2-4 hours,4.7,06:00,18:00,Historic mountain railway starting point for journeys into the Nilgiris.
+90,Karamadai Ranganathar Temple,Religious,Mettupalayam,11.235,76.961,0,1-2 hours,4.5,06:00,20:00,Historic Vaishnavite temple in the Karamadai area.
+91,Thekkampatti View Point,Nature,Mettupalayam,11.305,76.97,0,30-60 minutes,4.3,06:00,18:00,Scenic viewpoint around the foothills near Mettupalayam.
